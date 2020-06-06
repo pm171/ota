@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/pm171/ota/raw/master/operator_controller.ipa</string>
+					<string>http://101.133.136.160:8100/shanghai/operator_controller.ipa</string>
 				</dict>			
 			</array>
 			<key>metadata</key>
